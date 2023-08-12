@@ -4,12 +4,12 @@
 
 - [Introduction](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#introduction)
 - [Summary](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#summary)
-- [Test Case Works for eplaza.waltonbd.com](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test Case Works for 'Walton eplaza')
-  - [Test Cases](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Cases)
-  - [Bug Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Bug Report for [Chaldal](https://chaldal.com/))
-  - [Test Case Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Case-Report)
-  - [Test Metrics](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Metrics)
-  - [Mind Map](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Mind-map)
+- [Test Case Works for eplaza.waltonbd.com](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#)
+  - [Test Cases](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Cases)
+  - [Bug Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Bug_Report)
+  - [Test Case Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Case_Report)
+  - [Test Metrics](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Metrics)
+  - [Mind Map](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Mind_map)
     
 # Introduction
 
@@ -34,9 +34,9 @@ The Summary of all the tasks done for all the 2 websites are given below with a 
 | Mind map                    | Mind Map                 |
 
 
-# Test Case Works for 'Walton eplaza'
+# Test_Case_Works_for_Walton_eplaza
 
-### Test Cases
+### Test_Cases
 
 Some of the samples of the Test Cases.
 
@@ -44,7 +44,7 @@ Some of the samples of the Test Cases.
   <img src="Walton eplaza/Test Case.png" />
 </p>
 
-### Bug Report
+### Bug_Report
 
 Some of the samples of the Bug Report.
 
@@ -52,19 +52,19 @@ Some of the samples of the Bug Report.
   <img src="Walton eplaza/Bug Report.png" />
 </p>
 
-### Test Case Report
+### Test_Case_Report
 
 <p align="center">
   <img src="Walton eplaza/Test Report.png" />
 </p>
 
-### Test Metrics
+### Test_Metrics
 
 <p align="center">
   <img src="Walton eplaza/Test Metrics.png" />
 </p>
 
-### Mind Map
+### Mind_Map
 
 A partial Mind Map for https://eplaza.waltonbd.com
 
