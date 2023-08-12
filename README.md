@@ -10,6 +10,13 @@
   - [Test Case Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Case_Report)
   - [Test Metrics](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Metrics)
   - [Mind Map](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Mind_map)
+  - 
+- [Test Case Works for chaldal.com](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Case_Works_for_Walton_eplaza)
+  - [Test Cases](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Cases)
+  - [Bug Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Bug_Report)
+  - [Test Case Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Case_Report)
+  - [Test Metrics](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Metrics)
+  - [Mind Map](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Mind_map)
     
 # Introduction
 
@@ -34,9 +41,9 @@ The Summary of all the tasks done for all the 2 websites are given below with a 
 | Mind map                    | Mind Map                 |
 
 
-# Test_Case_Works_for_Walton_eplaza
+# Test Case Works for Walton eplaza
 
-### Test-Cases
+### Test Cases
 
 Some of the samples of the Test Cases.
 
@@ -44,7 +51,7 @@ Some of the samples of the Test Cases.
   <img src="Walton eplaza/Test Case.png" />
 </p>
 
-### Bug_Report
+### Bug Report
 
 Some of the samples of the Bug Report.
 
@@ -52,19 +59,19 @@ Some of the samples of the Bug Report.
   <img src="Walton eplaza/Bug Report.png" />
 </p>
 
-### Test_Case_Report
+### Test Case Report
 
 <p align="center">
   <img src="Walton eplaza/Test Report.png" />
 </p>
 
-### Test_Metrics
+### Test Metrics
 
 <p align="center">
   <img src="Walton eplaza/Test Metrics.png" />
 </p>
 
-### Mind_Map
+### Mind Map
 
 A partial Mind Map for https://eplaza.waltonbd.com
 
@@ -77,7 +84,7 @@ A partial Mind Map for https://eplaza.waltonbd.com
 
 # Test Case Works for [Chaldal](https://chaldal.com/)
 
-### Test Cases for [Chaldal](https://chaldal.com/)
+### Test Cases
 
 Some of the samples of the Test Cases.
 
@@ -85,7 +92,7 @@ Some of the samples of the Test Cases.
   <img src="Chaldal/Test Case.png" />
 </p>
 
-### Bug Report for [Chaldal](https://chaldal.com/)
+### Bug Report
 
 Some of the samples of the Bug Report
 
@@ -93,13 +100,13 @@ Some of the samples of the Bug Report
   <img src="Chaldal/Bug Report.png" />
 </p>
 
-### Test Case Report for [Chaldal](https://chaldal.com/)
+### Test Case Report
 
 <p align="center">
   <img src="Chaldal/Test Report.png" />
 </p>
 
-### Test Metrics for [Chaldal](https://chaldal.com/)
+### Test Metrics
 
 <p align="center">
   <img src="Chaldal/Test Metrics.png" />
