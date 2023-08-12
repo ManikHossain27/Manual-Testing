@@ -41,7 +41,7 @@ The Summary of all the tasks done for all the 2 websites are given below with a 
 Some of the samples of the Test Cases.
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Test_Case.PNG" />
+  <img src="Walton eplaza/Test Case.png" />
 </p>
 
 ### Bug Report
