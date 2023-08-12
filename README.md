@@ -5,7 +5,7 @@
 - [Introduction](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#introduction)
 - [Summary](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#summary)
 - [Test Case Works for eplaza.waltonbd.com](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Case_Works_for_Walton_eplaza)
-  - [Test Cases](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Cases)
+  - [Test Cases](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Cases)
   - [Bug Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Bug_Report)
   - [Test Case Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Case_Report)
   - [Test Metrics](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test_Metrics)
@@ -36,7 +36,7 @@ The Summary of all the tasks done for all the 2 websites are given below with a 
 
 # Test_Case_Works_for_Walton_eplaza
 
-### Test_Cases
+### Test-Cases
 
 Some of the samples of the Test Cases.
 
