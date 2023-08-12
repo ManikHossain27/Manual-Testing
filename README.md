@@ -49,19 +49,19 @@ Some of the samples of the Test Cases.
 Some of the samples of the Bug Report.
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Bug_Report.PNG" />
+  <img src="Walton eplaza/Bug Report.png" />
 </p>
 
 ### Test Case Report
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Test_Report.PNG" />
+  <img src="Walton eplaza/Test Report.png" />
 </p>
 
 ### Test Metrics
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Test_Matrics.PNG" />
+  <img src="Walton eplaza/Test Metrics.png" />
 </p>
 
 ### Mind Map
@@ -69,5 +69,5 @@ Some of the samples of the Bug Report.
 A partial Mind Map for Ultimateorganiclife.com.
 
 <p align="center">
-  <img src="https://github.com/Rabbi01521/-Test-case-Bug-report-Test-metrics-Mind-map/blob/main/ultimateorganiclife.com/Ultimate%20Organic%20Life_main.png" />
+  <img src="Walton eplaza/Mind Map of 'Walton eplaza'.pdf" />
 </p>
