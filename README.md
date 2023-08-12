@@ -4,20 +4,13 @@
 
 - [Introduction](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#introduction)
 - [Summary](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#summary)
-- [Test Case Works for eplaza.waltonbd.com](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Case-Works-for-Ultimateorganiclife)
+- [Test Case Works for eplaza.waltonbd.com](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test Case Works for 'Walton eplaza')
   - [Test Cases](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Cases)
   - [Bug Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Bug Report for [Chaldal](https://chaldal.com/))
   - [Test Case Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Case-Report)
   - [Test Metrics](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test-Metrics)
   - [Mind Map](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Mind-map)
     
-- [Test Case Works for https://eplaza.waltonbd.com](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map# Test Case Works for [Chaldal](https://chaldal.com/))
-  - [Test Cases](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test Cases for [Chaldal](https://chaldal.com/))
-  - [Bug Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Bug Report for [Chaldal](https://chaldal.com/))
-  - [Test Case Report](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test Case Report for [Chaldal](https://chaldal.com/))
-  - [Test Metrics](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Test Metrics for [Chaldal](https://chaldal.com/))
-  - [Mind Map](https://github.com/ManikHossain27/Test_case_Bug_report_Tes_Metrics_Mind_map#Mind Map for [Chaldal](https://chaldal.com/))
-
 # Introduction
 
 This document explains how I have done writing Test Cases, Test Case Report, Bug Report, Test Metrics and Mind Maps on 'Walton eplaza' website.
