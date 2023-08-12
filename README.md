@@ -66,8 +66,8 @@ Some of the samples of the Bug Report.
 
 ### Mind Map
 
-A partial Mind Map for Ultimateorganiclife.com.
+A partial Mind Map for https://eplaza.waltonbd.com
 
 <p align="center">
-  <img src="Walton eplaza/Mind Map of 'Walton eplaza'.pdf" />
+  <img src="Walton eplaza/Mind Map.png" />
 </p>
